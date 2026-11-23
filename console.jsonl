@@ -1,0 +1,201 @@
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795433282656}
+{"level":"debug","message":"[vite] connected.","timestamp":1795433286379}
+{"level":"debug","message":"[vite] connected.","timestamp":1795433287094}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795433365877}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795433365896}
+{"level":"debug","message":"[vite] connected.","timestamp":1795433372676}
+{"level":"debug","message":"[vite] connected.","timestamp":1795433373739}
+{"level":"debug","message":"[vite] connected.","timestamp":1795433475131}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795433599520}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795433599520}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795433599621}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795433599621}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795433618011}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795433618011}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795433618041}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795433618041}
+{"level":"debug","message":"[vite] connected.","timestamp":1795433945046}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795434048682}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795434048683}
+{"level":"debug","message":"[vite] hot updated: /src/components/Landing.tsx","timestamp":1795434048683}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795434048683}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795434048684}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795434048684}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795434048684}
+{"level":"debug","message":"[vite] hot updated: /src/components/Header.tsx","timestamp":1795434048684}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795434048685}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795434048685}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795434048685}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795434048686}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1795434048686}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795434048686}
+{"level":"debug","message":"[vite] connected.","timestamp":1795434051256}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/Header.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436290336}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795436290337}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795436290337}
+{"level":"debug","message":"[vite] hot updated: /src/components/Landing.tsx","timestamp":1795436290337}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795436291194}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436293176}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436356975}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436359577}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436379576}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436379576}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436380028}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436380028}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1795436380731}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436380731}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436380731}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436380731}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436380731}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1795436380732}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436380732}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436380732}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436380732}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436380732}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436380737}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436403773}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436403773}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436403774}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436403774}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795436404652}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436404652}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795436404774}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436404774}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436419236}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436419236}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436419414}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436419414}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436420188}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436420188}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436420199}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436420199}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795436421605}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436421605}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795436421777}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436421777}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436453460}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/Header.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1795436531579}
+{"level":"debug","message":"[vite] hot updated: /src/components/Landing.tsx","timestamp":1795436531580}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795436531580}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkStatus.tsx","timestamp":1795436531580}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/components/Header.tsx","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436532705}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436532706}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795436532706}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1795436532706}
+{"level":"debug","message":"[vite] hot updated: /src/components/Landing.tsx","timestamp":1795436532706}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795436532706}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkStatus.tsx","timestamp":1795436532706}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795436532706}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436586198}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436602891}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436602892}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436602896}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436602896}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436604616}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436604617}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436604905}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436604905}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436673779}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436701163}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436701547}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/Header.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkStatus.tsx","timestamp":1795436816970}
+{"level":"debug","message":"[vite] hot updated: /src/components/Landing.tsx","timestamp":1795436816971}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1795436816971}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795436816971}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436816971}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795436816971}
+{"level":"debug","message":"[vite] hot updated: /src/components/TransferTracker.tsx","timestamp":1795436816971}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/Header.tsx","timestamp":1795436818149}
+{"level":"debug","message":"[vite] hot updated: /src/components/Charts.tsx","timestamp":1795436818150}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1795436818150}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractCard.tsx","timestamp":1795436818150}
+{"level":"debug","message":"[vite] hot updated: /src/components/TransferTracker.tsx","timestamp":1795436818150}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkStatus.tsx","timestamp":1795436818150}
+{"level":"debug","message":"[vite] hot updated: /src/components/Landing.tsx","timestamp":1795436818150}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795436818150}
+{"level":"debug","message":"[vite] connected.","timestamp":1795436820606}
+{"level":"error","message":"[vite] Failed to reload /src/index.css. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436842449}
+{"level":"error","message":"[vite] Failed to reload /src/components/ContractsPanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436842460}
+{"level":"error","message":"[vite] Failed to reload /src/components/SendCard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436842461}
+{"level":"error","message":"[vite] Failed to reload /src/components/BalanceCard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436842461}
+{"level":"error","message":"[vite] Failed to reload /src/components/AnalyticsPanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436842477}
+{"level":"error","message":"[vite] Failed to reload /src/components/TransferTracker.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436842478}
+{"level":"error","message":"[vite] Failed to reload /src/components/ActivityPanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436843627}
+{"level":"error","message":"[vite] Failed to reload /src/components/ProfilePanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/components/TransferTracker.tsx","timestamp":1795436843647}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436843647}
+{"level":"error","message":"[vite] Failed to reload /src/components/SendCard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436843910}
+{"level":"error","message":"[vite] Failed to reload /src/index.css. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436843910}
+{"level":"error","message":"[vite] Failed to reload /src/components/BalanceCard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436843911}
+{"level":"error","message":"[vite] Failed to reload /src/components/AnalyticsPanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436843911}
+{"level":"error","message":"[vite] Failed to reload /src/components/ContractsPanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436843911}
+{"level":"error","message":"[vite] Failed to reload /src/components/TransferTracker.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436844047}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795436844332}
+{"level":"error","message":"[vite] Failed to reload /src/components/ActivityPanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436845032}
+{"level":"error","message":"[vite] Failed to reload /src/components/ProfilePanel.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/components/ContractsPanel.tsx","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/components/SendCard.tsx","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnalyticsPanel.tsx","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/components/BalanceCard.tsx","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityPanel.tsx","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/components/TransferTracker.tsx","timestamp":1795436845050}
+{"level":"debug","message":"[vite] hot updated: /src/components/ProfilePanel.tsx","timestamp":1795436845050}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1795436845050}
